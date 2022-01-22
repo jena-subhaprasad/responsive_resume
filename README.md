@@ -1,3 +1,3 @@
 # responsive_resume(Using HTML and CSS)
 #Link below to Check the Page...
-#https://gallant-easley-d09b5b.netlify.app/
+#https://loving-saha-c00b71.netlify.app/
